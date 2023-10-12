@@ -6,6 +6,6 @@
 
  
 #### A. Result and Script on Spyder
-Python Script:  
+Python Script: https://github.com/ammarmuzhaffar/Tugas-2-PSO/blob/main/Ammar%20Muzhaffar_5009201074_1D%20Convolution.py
 
 
